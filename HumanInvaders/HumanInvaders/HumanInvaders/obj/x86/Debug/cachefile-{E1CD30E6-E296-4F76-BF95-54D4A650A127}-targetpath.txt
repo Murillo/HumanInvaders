@@ -1,0 +1,20 @@
+Content\Images\marte.xnb
+Content\Images\space.xnb
+Content\Fonts\text.xnb
+Content\Images\Logo.xnb
+Content\Images\Naves\NaveFelipe.xnb
+Content\Images\Naves\navamonstro.xnb
+Content\Images\Naves\NaveFelipe 1.xnb
+Content\Music\music_action.xnb
+Content\Music\music_action.wma
+Content\Music\the_planet_music.xnb
+Content\Music\the_planet_music.wma
+Content\Images\fire2.xnb
+Content\Sound\fireball.xnb
+Content\Images\Naves\boss.xnb
+Content\Video\Filme.xnb
+Content\Video\Filme.wmv
+Content\Images\explosion.xnb
+Content\Sound\bomb1.xnb
+Content\Sound\explosion1.xnb
+Content\Sound\explosion4.xnb

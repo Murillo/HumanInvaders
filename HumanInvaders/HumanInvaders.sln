@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanInvaders", "HumanInvaders\HumanInvaders\HumanInvaders.csproj", "{3FB50044-EFBF-4C47-85AD-FD87223F9C76}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HumanInvadersContent", "HumanInvaders\HumanInvadersContent\HumanInvadersContent.contentproj", "{E1CD30E6-E296-4F76-BF95-54D4A650A127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB50044-EFBF-4C47-85AD-FD87223F9C76}.Debug|x86.ActiveCfg = Debug|x86
+		{3FB50044-EFBF-4C47-85AD-FD87223F9C76}.Debug|x86.Build.0 = Debug|x86
+		{3FB50044-EFBF-4C47-85AD-FD87223F9C76}.Release|x86.ActiveCfg = Release|x86
+		{3FB50044-EFBF-4C47-85AD-FD87223F9C76}.Release|x86.Build.0 = Release|x86
+		{E1CD30E6-E296-4F76-BF95-54D4A650A127}.Debug|x86.ActiveCfg = Debug|x86
+		{E1CD30E6-E296-4F76-BF95-54D4A650A127}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
