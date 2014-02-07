@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\marte.jpg</Source>
+      <Name>Images\marte</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\marte.xnb</Output>
+      <Time>2012-10-18T20:27:28.3690304-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\space.jpg</Source>
+      <Name>Images\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\space.xnb</Output>
+      <Time>2012-10-18T21:52:01.6542057-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\text.spritefont</Source>
+      <Name>Fonts\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Fonts\text.xnb</Output>
+      <Time>2012-10-28T21:46:37.580748-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Logo.png</Source>
+      <Name>Images\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\Logo.xnb</Output>
+      <Time>2012-10-19T21:36:53.70757-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Naves\NaveFelipe.png</Source>
+      <Name>Images\Naves\NaveFelipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\Naves\NaveFelipe.xnb</Output>
+      <Time>2012-10-19T20:40:59.7487345-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Naves\navamonstro.png</Source>
+      <Name>Images\Naves\navamonstro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\Naves\navamonstro.xnb</Output>
+      <Time>2012-10-19T20:55:46.6224608-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Naves\NaveFelipe 1.png</Source>
+      <Name>Images\Naves\NaveFelipe 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\Naves\NaveFelipe 1.xnb</Output>
+      <Time>2012-10-19T21:37:31.2377166-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\music_action.mp3</Source>
+      <Name>Music\music_action</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Music\music_action.xnb</Output>
+      <Extra>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Music\music_action.wma</Extra>
+      <Time>2012-10-20T11:22:03.7335598-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\the_planet_music.mp3</Source>
+      <Name>Music\the_planet_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Music\the_planet_music.xnb</Output>
+      <Extra>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Music\the_planet_music.wma</Extra>
+      <Time>2012-10-21T15:04:29.8751751-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fire2.png</Source>
+      <Name>Images\fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\fire2.xnb</Output>
+      <Time>2012-10-21T19:14:51.3873565-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\fireball.wav</Source>
+      <Name>Sound\fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Sound\fireball.xnb</Output>
+      <Time>2012-10-21T23:16:28.2725202-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Naves\boss.png</Source>
+      <Name>Images\Naves\boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\Naves\boss.xnb</Output>
+      <Time>2012-10-27T14:39:24.6344539-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Video\Filme.wmv</Source>
+      <Name>Video\Filme</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Video\Filme.xnb</Output>
+      <Extra>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Video\Filme.wmv</Extra>
+      <Time>2012-10-28T23:58:03-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2012-10-31T19:57:35.3668668-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bomb1.wav</Source>
+      <Name>Sound\bomb1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Sound\bomb1.xnb</Output>
+      <Time>2012-10-31T22:23:42.8071709-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion1.wav</Source>
+      <Name>Sound\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Sound\explosion1.xnb</Output>
+      <Time>2012-10-31T22:23:42.8111711-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion4.wav</Source>
+      <Name>Sound\explosion4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\Sound\explosion4.xnb</Output>
+      <Time>2012-10-31T22:35:17.970932-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E1CD30E6-E296-4F76-BF95-54D4A650A127}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvadersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Murillo Grubler\SkyDrive\Feevale\Projeto Game\Programação IV\HumanInvaders\HumanInvaders\HumanInvaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-30T11:33:27.3829613-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
